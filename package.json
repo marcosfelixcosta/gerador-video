@@ -1,0 +1,31 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Algoritimo para criar videos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosfelixcosta/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosfelixcosta/video-maker/issues"
+  },
+  "homepage": "https://github.com/marcosfelixcosta/video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "express": "^4.17.1",
+    "gm": "^1.23.1",
+    "googleapis": "^52.1.0",
+    "ibm-cloud-sdk-core": "^2.11.3",
+    "ibm-watson": "^5.7.3",
+    "image-downloader": "^4.0.1",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.18",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
