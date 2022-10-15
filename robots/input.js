@@ -6,6 +6,7 @@ function robot(){
     useFecthContentFromWikipediaAlgorithmia: false,
     maximumSentences:7
   }
+  
   content.searchTerm = askAndReturnSearchTerm()
   content.prefix = askAndReturnPrefix()
   content.lang = askAndReturnLanguage() //lang
