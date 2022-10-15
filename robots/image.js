@@ -5,9 +5,9 @@ const state = require('./state.js')
 
 
 //Chave-reserva - Busca no google:
-//  "AIzaSyASu6Pvs_8a7XE8OfkamGZe2-wM4U_htVM"
-//  "AIzaSyC1Y_ML7MWtuIlJvX8ZAkJl0ujxQKPZJ08"
-//  "AIzaSyBSfYngZq1KAffFb3XvUIKGDlciiFtV3oI"
+//  "AIzaSyASu336Pvs_8a7XE8OfkamGZ6767e2-wM4U_htVM"
+//  "AIzaSyC1Y_ML337MWtuIlJvX8ZAkJl056ujxQKPZJ08"
+//  "AIzaSyBSf33YngZq1KAffFb3XvUI45KGDlciiFtV3oI"
 
 
 const googleSearchCredentials = require('../credentials/google-seach.json')
