@@ -3,6 +3,7 @@ const algorithmApiKey = require('../credentials/algorithmia.json').apikey
 const sentenceBoundaryDetection = require('sbd')
 //const fetch = require('node-fetch')
 
+
 const watsonApiKey = require('../credentials/watson-nlu.json').apikey
 const NaturalLanguageUnderstandingV1 = require('ibm-watson/natural-language-understanding/v1');
 const  { IamAuthenticator } = require('ibm-watson/auth');
