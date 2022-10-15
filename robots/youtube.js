@@ -5,6 +5,7 @@ const OAuth2 = google.auth.OAuth2
 const state = require ('./state.js')
 const fs =  require ('fs')
 
+//Inicio robo de video - youtube
 async function robot(){
   console.log('> [Robo do youtube] Iniciando...')
  const content  = state.load()
